@@ -1,8 +1,9 @@
 {
   "name": "@tcbang/vendors",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "United packages for Front End projects.",
   "main": "index.js",
+  "repository": "tcbang/vendors",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
