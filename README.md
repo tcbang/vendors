@@ -29,11 +29,14 @@ $ npm install --save @tcbang/vendors
 
 #### 3. Version
 
+v1.2.1
+* fix publish bug
+
 v1.2.0
 * add **`vue`** components support
 * support **`vue`** component **`Loading`**
 
-v1.1.0
+v1.1.x
 * update **`lodash`** to **`lodash-es`**
 
 v1.0.x
