@@ -1,6 +1,8 @@
 ## @tcbang/vendors
 
-United packages for Front End projects.
+The vendor packages for Front End projects.
+
+**NOTE: This project is meant to be used exclusively in @tcbang's projects and does not consider external use cases.**
 
 ## Quick Start
 
@@ -23,3 +25,16 @@ $ npm install --save @tcbang/vendors
     }
 }
 ```
+
+#### 3. Version
+
+v1.1.0
+* update **`lodash`** to **`lodash-es`**
+
+v1.0.x
+* init project
+* support **`axios`** 
+* support **`copy-text-to-clipboard`** 
+* support **`global.css`** 
+* support **`js-cookie`** 
+* support **`lodash`** 
