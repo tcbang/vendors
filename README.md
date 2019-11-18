@@ -18,15 +18,20 @@ $ npm install --save @tcbang/vendors
 {
     "dependencies": {
         "axios": "^0.19.0",
-        "copy-text-to-clipboard": "^2.1.0",
+        "copy-text-to-clipboard": "^2.1.1",
         "global.css": "^1.1.0",
-        "js-cookie": "^2.2.0",
-        "lodash-es": "^4.17.15"
+        "js-cookie": "^2.2.1",
+        "lodash-es": "^4.17.15",
+        "vue-loading-overlay": "^3.2.0"
     }
 }
 ```
 
 #### 3. Version
+
+v1.2.0
+* add **`vue`** components support
+* support **`vue`** component **`Loading`**
 
 v1.1.0
 * update **`lodash`** to **`lodash-es`**

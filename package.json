@@ -1,6 +1,6 @@
 {
   "name": "@tcbang/vendors",
-  "version": "1.1.1",
+  "version": "1.2.0",
   "description": "The vendor packages for Front End projects.",
   "main": "index.js",
   "module": "index.js",
@@ -15,6 +15,7 @@
     "copy-text-to-clipboard": "^2.1.1",
     "global.css": "^1.1.0",
     "js-cookie": "^2.2.1",
-    "lodash-es": "^4.17.15"
+    "lodash-es": "^4.17.15",
+    "vue-loading-overlay": "^3.2.0"
   }
 }
