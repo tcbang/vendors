@@ -21,7 +21,7 @@ $ npm install --save @tcbang/vendors
         "copy-text-to-clipboard": "^2.1.0",
         "global.css": "^1.1.0",
         "js-cookie": "^2.2.0",
-        "lodash": "^4.17.15"
+        "lodash-es": "^4.17.15"
     }
 }
 ```
