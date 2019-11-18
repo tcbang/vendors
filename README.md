@@ -19,15 +19,20 @@ $ npm install --save @tcbang/vendors
     "dependencies": {
         "axios": "^0.19.0",
         "copy-text-to-clipboard": "^2.1.1",
+        "element-ui": "^2.12.0",
         "global.css": "^1.1.0",
         "js-cookie": "^2.2.1",
-        "lodash-es": "^4.17.15",
-        "vue-loading-overlay": "^3.2.0"
+        "lodash-es": "^4.17.15"
     }
 }
 ```
 
 #### 3. Version
+
+v1.3.0
+* update **`vue`** component **`Loading`**
+* support **`vue`** component **`Message`**
+* support **`vue`** component **`MessageBox`**
 
 v1.2.1
 * fix publish bug
