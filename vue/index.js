@@ -1,5 +1,3 @@
-export {
-    Loading,
-    Message,
-    MessageBox
-} from 'element-ui'
+export * from './Loading'
+export * from './Message'
+export * from './MessageBox'

@@ -29,6 +29,9 @@ $ npm install --save @tcbang/vendors
 
 #### 3. Version
 
+v1.3.1
+* fix **`vue`** component style's problem
+
 v1.3.0
 * update **`vue`** component **`Loading`**
 * support **`vue`** component **`Message`**
