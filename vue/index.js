@@ -1,3 +1,2 @@
 export * from './Loading'
-export * from './Message'
-export * from './MessageBox'
+export * from './Toast'

@@ -19,7 +19,6 @@ $ npm install --save @tcbang/vendors
     "dependencies": {
         "axios": "^0.19.0",
         "copy-text-to-clipboard": "^2.1.1",
-        "element-ui": "^2.12.0",
         "global.css": "^1.1.0",
         "js-cookie": "^2.2.1",
         "lodash-es": "^4.17.15"
@@ -28,6 +27,12 @@ $ npm install --save @tcbang/vendors
 ```
 
 #### 3. Version
+
+v1.4.0
+* update **`vue`** component **`Loading`**
+* support **`vue`** component **`Toast`**
+* remove **`vue`** component **`Message`**
+* remove **`vue`** component **`MessageBox`**
 
 v1.3.1
 * fix **`vue`** component style's problem
